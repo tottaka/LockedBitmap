@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 
-/// <summary>
+    /// <summary>
     /// Provides managed, direct access to the data in a <see cref="System.Drawing.Bitmap"/>.
     /// </summary>
     public class LockedBitmap : IDisposable
